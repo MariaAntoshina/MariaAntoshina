@@ -1,5 +1,9 @@
 ## Hi there, I'm Maria 👋
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/VPnfM9bmR0ZaQo3qtK)" width="100"/>
+</div>
+
 I am a Junior Frontend Developer and currently open to work.
 
 
@@ -19,11 +23,16 @@ I am a Junior Frontend Developer and currently open to work.
   
 </div>
 
+---
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MariaAntoshina&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAntoshina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :writing_hand: Contact:
+
 
 
 <!--
