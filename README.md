@@ -1,7 +1,18 @@
 ## Hi there, I'm Maria 👋
-
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/VPnfM9bmR0ZaQo3qtK)" width="100"/>
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=email&logoColor=white" alt="Youtube Badge"/>
+</div>
+<div id="badges">
+  <a href="https://t.me/Maria_krn">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 I am a Junior Frontend Developer and currently open to work.
@@ -31,9 +42,11 @@ I am a Junior Frontend Developer and currently open to work.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAntoshina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### :writing_hand: Contact:
+### :writing_hand: Contact me:
 
-
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRncnV3Z25iNTJmaGJxaXIzbHo5bzU5NmU2b3hmNTBrY2l5OG16dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="100"/>
+</div>
 
 <!--
 **MariaAntoshina/MariaAntoshina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
