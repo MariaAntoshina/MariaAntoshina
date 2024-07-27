@@ -2,7 +2,7 @@
 
 
 
-I am a Junior Frontend Developer and currently open to work.
+I am a Junior Frontend Developer and now open to work.
 
 
 ### :hammer_and_wrench: Languages and Tools :
